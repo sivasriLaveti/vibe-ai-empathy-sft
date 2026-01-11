@@ -42,7 +42,7 @@ are not included and are identified as next steps.
 
 Author
 
-Sivasri
+Sivasri Laveti
 GitHub: replace with your profile URL
 
-cc: ahan-2000
+cc: @ahan-2000

@@ -33,7 +33,7 @@ in the results directory.
 
 How to Run
 
-Open training.ipynb in Google Colab, enable GPU, and run all cells.
+Open vibe_ai_empathetic_llm.ipynb in Google Colab, enable GPU, and run all cells.
 
 Limitations
 
